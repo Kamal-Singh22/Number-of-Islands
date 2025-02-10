@@ -8,4 +8,4 @@ DFS Traversal:
 The DFS function recursively marks all connected land cells (horizontally and vertically) as visited by changing them to '0'.
 
 Count Islands:
-Each DFS call ensures one entire island is marked, so the count of DFS initiations equals the number of islands.
+Each DFS call ensures one entire island is marked, so the count of DFS initiations equals the number of islands...
